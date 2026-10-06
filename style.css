@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #56d5ba;
+  color: #d05ebd;
+  margin: 0;
+  padding: 2rem;
+}
+
+.karte {
+  width: 20rem;
+  max-width: 100%;
+  background-color: white;
+  padding: 1rem;
+  margin: 2rem 0;
+  border: 2px solid #476b93;
+  border-radius: 0.5rem;
+}
+
+h1 {
+  background-color: rgba(71, 86, 147, 0.2);
+  padding: 1rem;
+  margin: 0 0 1.5rem;
+}
