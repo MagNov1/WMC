@@ -24,3 +24,44 @@ h1 {
   padding: 1rem;
   margin: 0 0 1.5rem;
 }
+
+/* Überschrift */
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 3px solid #358f8b;
+}
+
+/* Navigation */
+nav {
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Meine Erfahrungen */
+
+/* Liste mit Spielen */
+ul {
+    padding: 20px 40px;
+    margin: 20px 0;
+    border: 2px dashed #358f8b;
+    border-radius: 10px;
+    width: 300px;
+    max-width: 100%;
+}
+
+/* UNO-Bild */
+img {
+    width: 250px;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    margin-top: 20px;
+    border: 3px solid #358f8b;
+    border-radius: 10px;
+}
+/* Textgestaltung */
+p {
+    font-size: 1.2em;
+    line-height: 1.5;
+}
